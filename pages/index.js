@@ -20,6 +20,11 @@ const index = () => {
                             Social Media
                         </LinkComponent>
                     </li>
+                    <li>
+                        <LinkComponent href='/social_server'>
+                            Social Media Server
+                        </LinkComponent>
+                    </li>
                 </ul>
             </div>
         </div>
