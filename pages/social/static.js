@@ -1,6 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
-import Styles from '../styles/Home.module.css'
+import Styles from '../../styles/Home.module.css'
 
 const social = ({ data }) => {
     return (
@@ -9,7 +9,7 @@ const social = ({ data }) => {
                 <title>Social Media</title>
             </Head>
             <div className={Styles.main}>
-                <h1 className={Styles.title}>Social Media</h1>
+                <h1 className={Styles.title}>Social Media Static</h1>
                 <ul>
                     {data.map((item, index) => {
                         return (

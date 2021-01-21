@@ -1,6 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
-import Styles from '../styles/Home.module.css'
+import Styles from '../../styles/Home.module.css'
 
 const social = ({ data }) => {
     return (

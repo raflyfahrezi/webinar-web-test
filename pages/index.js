@@ -16,12 +16,12 @@ const index = () => {
                         <LinkComponent href='/about'>About Me</LinkComponent>
                     </li>
                     <li>
-                        <LinkComponent href='/social'>
-                            Social Media
+                        <LinkComponent href='/social/static'>
+                            Social Media Static
                         </LinkComponent>
                     </li>
                     <li>
-                        <LinkComponent href='/social_server'>
+                        <LinkComponent href='/social/server'>
                             Social Media Server
                         </LinkComponent>
                     </li>
